@@ -2,10 +2,8 @@
 #
 # set(update) port for using alias IP.
 #
-# Usage:
-#   openstack-set-port.sh <hostname> <aliasip>
-#
-# hasegawa-takuya-xa
+# rluisr
+
 set -eu
 
 CMDNAME=$( basename $0 )
